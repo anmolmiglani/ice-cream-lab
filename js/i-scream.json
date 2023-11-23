@@ -1,0 +1,61 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2023,
+    "active": true,
+    "topFlavors": [{
+        "name": "Chocolate Mint",
+        "calories": 300,
+        "type": "ice-cream",
+        "ingredients": [
+            "Chocolate Syrup",
+            "Peppermint Sprinkle",
+            "Vanilla Base"
+        ],
+        "image": "https://anmolmiglani.github.io/ice-cream-lab/images/chocolate-mint.svg"
+    }, {
+        "name": "Peach Mango",
+        "calories": 350,
+        "type": "milkshake-type ice-cream",
+        "ingredients": [
+            "Peach Syrup",
+            "Mango Chunks",
+            "Vanilla Base"
+        ],
+        "image": "https://anmolmiglani.github.io/ice-cream-lab/images/peach-mango.svg"
+    }, {
+        "name": "Strawberry Sprinkle",
+        "calories": 400,
+        "type": "ice-cream",
+        "ingredients": [
+            "Strawberry Syrup",
+            "Some Sprinkles",
+            "Vanilla Base"
+        ],
+        "image": "https://anmolmiglani.github.io/ice-cream-lab/images/strawberry-sprinkle.svg"
+    },
+    {
+        "name": "Truffle Sprinkle",
+        "calories": 400,
+        "type": "ice-cream",
+        "ingredients": [
+            "Truffle Syrup",
+            "Choco Sprinkles",
+            "Truffle Base"
+        ],
+        "image": "https://anmolmiglani.github.io/ice-cream-lab/images/ice-cream-xtra1.svg"
+    },
+    {
+        "name": "Black Forest",
+        "calories": 400,
+        "type": "ice-cream",
+        "ingredients": [
+            "Choco lava",
+            "Choco Sprinkles",
+            "Chocolate Base"
+        ],
+        "image": "https://anmolmiglani.github.io/ice-cream-lab/images/ice-cream-xtra2.svg"
+    }
+]
+
+}
